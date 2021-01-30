@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "143153023711",
+    "project_id": "just-chat-96862",
+    "storage_bucket": "just-chat-96862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143153023711:android:07a13ac5b6c8b0566b376a",
+        "android_client_info": {
+          "package_name": "seventeen.justchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143153023711-s535f36kkt2r1jk753n8ioa40j357e06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "seventeen.justchat",
+            "certificate_hash": "d4f913d3ab0512df005b891a5773ff3af6e6ad17"
+          }
+        },
+        {
+          "client_id": "143153023711-6s15esa0faqufj0a3qnm61uchoeofmge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFmVLi8BvccBBjZs9YX8ABGMmFmEBJScg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143153023711-6s15esa0faqufj0a3qnm61uchoeofmge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
